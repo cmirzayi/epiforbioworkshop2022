@@ -1,4 +1,4 @@
-url: https://seandavi.github.io/BuildABiocWorkshop
+url: https://chloemirzayi.com/epiforbioworkshop2022
 
 template:
   params:
@@ -6,13 +6,13 @@ template:
     #ganalytics: UA-99999999-9
 
 home:
-  title: "BuildABiocWorkshop"
+  title: "epiforbioworkshop2022"
   type: inverse
 
 
 navbar:
   right:
    - icon: fa-github
-     href: https://github.com/seandavi/BuildABiocWorkshop
-     
+     href: https://chloemirzayi.com/epiforbioworkshop2022
+
 
