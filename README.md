@@ -8,9 +8,9 @@ CUNY School of Public Health, 55 W 125th St, New York, NY 10027
 
 # Workshop Description
 
-Concepts of causal inference in epidemiology have important ramifications for studies across bioinformatics and other fields of health research. In this workship, we introduce basic concepts of epidemiology, study design, and causal inference for bioinformaticians. Emphasis is placed on addressing bias and confounding as common threats to assessing a causal pathway in a variety of study design types and when using common forms of analyses such as GWAS and survival analysis. Workshop participants will have the opportunity to create their own structural causal models (DAGs) and use this model to determine how to assess an estimated causal effect. Examples using DESeq2, edgeR, and limma will be used to show how multivariable models can be fitted depending on the hypothesized causal relationship.
+Concepts of causal inference in epidemiology have important ramifications for studies across bioinformatics and other fields of health research. In this workshop, we introduce basic concepts of epidemiology, study design, and causal inference for bioinformaticians. Emphasis is placed on addressing bias and confounding as common threats to assessing a causal pathway in a variety of study design types and when using common forms of analyses such as GWAS and survival analysis. Workshop participants will have the opportunity to create their own structural causal models (DAGs) using dagitty and ggdag and then use this model to determine how to assess an estimated causal effect. Examples using DESeq2, edgeR, and limma will be used to show how multivariable models can be fitted depending on the hypothesized causal relationship.
 
-Presented successfully at BioC2020 to more than 100 people, updates that material by adding additional practical examples, clarifications based on participant feedback, and substantive revisions of existing examples. 
+Presented successfully at BioC2021 to a large audience of more than 100, updates that material by revising current examples based on participant feedback as well as content updates. 
 
 ## Pre-requisites
 

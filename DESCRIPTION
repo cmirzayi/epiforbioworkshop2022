@@ -1,4 +1,4 @@
-Package: epiforbioworkshop2021
+Package: epiforbioworkshop2022
 Title: Epidemiology for Bioinformaticians Workshop
 Version: 0.1.6
 Authors@R: 
@@ -43,7 +43,7 @@ Remotes:
     bioc::release/phyloseq,
     bioc::release/Biobase,
     bioc::release/mia
-URL: https://chloemirzayi.com/epiforbioworkshop2021, https://cmirzayi.github.io/epiforbioworkshop2021/
-BugReports: https://github.com/cmirzayi/epiforbioworkshop2021/issues/new
+URL: https://chloemirzayi.com/epiforbioworkshop2022, https://cmirzayi.github.io/epiforbioworkshop2022/
+BugReports: https://github.com/cmirzayi/epiforbioworkshop2022/issues/new
 VignetteBuilder: knitr
-DockerImage: cmirzayi/epiforbioworkshop2021:latest
+DockerImage: cmirzayi/epiforbioworkshop2022:latest
