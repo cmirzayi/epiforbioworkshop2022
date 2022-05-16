@@ -229,7 +229,6 @@ plot(sn2)
 
 ### Selection bias
 
-![](images/Survivorship-bias.svg.png){width="309"}
 
 Another major issue of causal inference is selection bias. This arises when selection is dependent on the exposure and the outcome in the study:
 
