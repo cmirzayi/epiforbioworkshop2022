@@ -1,11 +1,13 @@
 pandoc: 2.17.1.1
-pkgdown: 2.0.2
+pkgdown: 2.0.3
 pkgdown_sha: ~
 articles:
+  EpiForBioWorkshop: EpiForBioWorkshop.html
   HOWTO_BUILD_WORKSHOP: HOWTO_BUILD_WORKSHOP.html
+  questionResponses: questionResponses.html
   workshop_example: workshop_example.html
-last_built: 2022-03-07T19:03Z
+last_built: 2022-05-16T19:00Z
 urls:
-  reference: https://seandavi.github.io/BuildABiocWorkshop/reference
-  article: https://seandavi.github.io/BuildABiocWorkshop/articles
+  reference: https://chloemirzayi.com/epiforbioworkshop2022/reference
+  article: https://chloemirzayi.com/epiforbioworkshop2022/articles
 
